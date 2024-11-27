@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/erntTt94/Newsletter-Sign-Up](https://github.com/erntTt94/Newsletter-Sign-Up)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ernttt94.github.io/Newsletter-Sign-Up/](https://ernttt94.github.io/Newsletter-Sign-Up/)
 
 ## My process
 
